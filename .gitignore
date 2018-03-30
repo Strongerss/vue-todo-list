@@ -1,5 +1,5 @@
 node_modules
-dist
+public
+server-build
 .vscode
-public/
-server-build/
+dist
